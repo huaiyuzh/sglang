@@ -2132,6 +2132,7 @@ class ModelRunner(ModelRunnerKVCacheMixin):
             {
                 "cpu": "cpu graph",
                 "npu": "npu graph",
+                "xpu": "xpu graph",
             },
         )
         logger.info(
